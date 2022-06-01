@@ -22,6 +22,7 @@
     grid-template-columns: 100%;
     grid-template-rows: 20% auto 10%;
     background-color: #f8c1d0;
+    height: 100vh;
 }
 
 #header {
@@ -141,6 +142,7 @@ main {
     grid-template-columns: auto;
     grid-template-rows: 20% auto 10%;
     background-color: #f8c1d0;
+    height: 100vh;
 }
 
 .containerPortfolio {
@@ -186,6 +188,7 @@ figcaption {
     grid-template-columns: auto;
     grid-template-rows: 15% auto 10%;
     background-color: #f8c1d0;
+    height: 100vh;
 }
 
 .containerHistoria {
@@ -220,6 +223,7 @@ figcaption {
     grid-template-columns: auto;
     grid-template-rows: 15% auto 10%;
     background-color: #f8c1d0;
+    height: 100vh;
 }
 
 .sobreMi {
@@ -253,6 +257,7 @@ figcaption {
     grid-template-columns: auto;
     grid-template-rows: 15% auto 10%;
     background-color: #f8c1d0;
+    height: 100vh;
 }
 
 .formulario {
